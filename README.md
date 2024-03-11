@@ -1,3 +1,3 @@
-# Experiment with Gorotines
+# dojo with goroutine
 
 ![output screenshot](./assets/screenshot.png)
